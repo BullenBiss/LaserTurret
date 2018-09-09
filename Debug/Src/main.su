@@ -1,0 +1,5 @@
+main.c:85:6:UART_Send_Int	16	static
+main.c:92:6:UART_Receive_Int	8	static
+main.c:196:6:SystemClock_Config	88	static
+main.c:126:5:main	112	static
+main.c:395:6:_Error_Handler	0	static
