@@ -1,5 +1,9 @@
-main.c:85:6:UART_Send_Int	16	static
-main.c:92:6:UART_Receive_Int	8	static
-main.c:196:6:SystemClock_Config	88	static
-main.c:126:5:main	112	static
-main.c:395:6:_Error_Handler	0	static
+main.c:104:6:UART_Send_Int	16	static
+main.c:112:6:UART_Receive_Int	8	static
+main.c:477:6:Thread2	64	static
+main.c:140:6:servoPWM	0	static
+main.c:444:6:Thread1	8	static
+main.c:250:6:SystemClock_Config	96	static
+main.c:157:5:main	88	static
+main.c:500:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:519:6:_Error_Handler	0	static
